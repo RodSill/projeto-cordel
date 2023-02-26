@@ -59,11 +59,11 @@ section > p{
 }
 
 div {
-    background-color: rgba(0, 0, 0, 0.600);
+    background-color: rgba(0, 0, 0, 0.432);
     border: 1px solid black;
     color: white;
     padding: 5px;
-    width: 40.8vw;  
+    width: 41.5vw;  
 }
 section#back{
     background-image: url(../imagens/background001.jpg);
@@ -76,7 +76,7 @@ section#back{
 section#back2{
     background-image: url(../imagens/background002.jpg);
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: center left;
     background-attachment: fixed;
     background-size: cover;
 }
