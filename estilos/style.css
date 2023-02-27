@@ -67,7 +67,9 @@ div {
     border: 1px solid black;
     color: white;
     padding: 5px;
-    width: 41.5vw;  
+    width: 41.5vw;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.397);
+      
 }
 section#back{
     background-image: url(../imagens/background001.jpg);
@@ -75,6 +77,7 @@ section#back{
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.404);
 }
 
 section#back2{
@@ -82,7 +85,8 @@ section#back2{
     background-repeat: no-repeat;
     background-position: center left;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover;box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.384);
+    
 }
 
 section{
